@@ -1,0 +1,27 @@
+.cen{
+    margin: 10% auto;
+    width: 70%;
+}
+
+h4{
+    margin: 5% auto;
+}
+
+.box{
+    margin: 0 auto;
+    /* width: 100px;
+    height: 100px; */
+    color: maroon;
+    font-size: 4vw;;
+    border-radius: 5px;
+    text-align: center;
+    border: 1px solid lightgray;
+}
+
+hr{
+    margin:0 5%;
+}
+
+.btn{
+  margin: 1% 5%;
+}
