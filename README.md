@@ -1,6 +1,6 @@
 # Ngrxex
 
-[demo] ( https://khushbu-2112.github.io/ngrx-store-example/.)
+(demo) [ https://khushbu-2112.github.io/ngrx-store-example/.]
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
