@@ -1,0 +1,19 @@
+.box{
+    display: flex;
+}
+
+.div1{
+    flex: 2;
+}
+
+.div2{
+    flex: 1;
+}
+
+.sty{
+    background: rgb(248, 248, 248);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 2px 2px lightgray;
+}
